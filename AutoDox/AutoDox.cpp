@@ -25,7 +25,7 @@ int main()
 	switch(i)
 	{
 	case 1:
-		std::cout << "User id: ";
+		std::cout << "1104310987080872047: ";
 
 		std::getline(std::cin, option1);
 		std::cout << "Fetching user details\n";
